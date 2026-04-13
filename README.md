@@ -19,7 +19,7 @@ Attacker:   *feels like a hacker*
 Honeypot:   "Thank you for your submission. Have a lovely day."
 ```
 
-This list is automatically updated every 5 minutes. The entries come from an Elasticsearch server that diligently logs all connection attempts from the past 7 days. Somewhere out there, a Russian port scanner is unknowingly contributing to an open-source project.
+This list is automatically updated every 60 minutes. The entries come from an Elasticsearch server that diligently logs all connection attempts from the past 7 days. Somewhere out there, a Russian port scanner is unknowingly contributing to an open-source project.
 
 ---
 
