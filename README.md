@@ -112,6 +112,15 @@ Every 60 minutes. The attackers never sleep, so neither does the cronjob.
 ## IP Count Over Time
 
 <!-- CHART_START -->
+```mermaid
+xychart-beta
+    title "Blocklist IP Count Over Time"
+    x-axis ["04-15 19:30", "04-15 19:35"]
+    y-axis "IP Count" 0 --> 4500
+    line [4492, 4492]
+```
+
+> **Current count:** 4492 IPs \&nbsp;|\&nbsp; **Tracking since:** 2026-04-15 19:30 \&nbsp;|\&nbsp; **Change (period):** +0
 <!-- CHART_END -->
 
 ---
