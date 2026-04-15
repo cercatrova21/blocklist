@@ -109,6 +109,13 @@ Every 60 minutes. The attackers never sleep, so neither does the cronjob.
 
 ---
 
+## IP Count Over Time
+
+<!-- CHART_START -->
+<!-- CHART_END -->
+
+---
+
 ## Statistics (roughly)
 
 - 🇨🇳 China: *Yes*
