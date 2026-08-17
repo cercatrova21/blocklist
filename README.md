@@ -115,9 +115,9 @@ Every 60 minutes. The attackers never sleep, so neither does the cronjob.
 ```mermaid
 xychart-beta
     title "Blocklist IP Count Over Time"
-    x-axis ["08-17 14:28", "08-17 15:00", "08-17 16:00", "08-17 17:00"]
+    x-axis ["08-17 14:28", "08-17 15:00", "08-17 16:00", "08-17 17:00", "08-17 19:04"]
     y-axis "IP Count" 0 --> 1000
-    line [356, 425, 580, 729]
+    line [356, 425, 580, 729, 767]
 ```
 
-> **Current count:** 729 IPs &nbsp;|&nbsp; **Tracking since:** 2026-08-17 14:28 &nbsp;|&nbsp; **Change (period):** +373
+> **Current count:** 767 IPs &nbsp;|&nbsp; **Tracking since:** 2026-08-17 14:28 &nbsp;|&nbsp; **Change (period):** +411
